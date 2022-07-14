@@ -26,7 +26,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/Project/kuaishou/</loc>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/crawler/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/ml/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/preprocessing/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/kuaishou/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/moonbirds/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/ncm_recommend/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/podcast_crawler/</loc>
          <lastmod>2022-07-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -36,7 +66,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/notes/</loc>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/method/lftb/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/method/workflow/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/note/culture/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/note/life/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/note/other/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/note/tech/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/tool/consumer/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/tool/creator/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/work/gray/</loc>
+         <lastmod>2022-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/work/other/</loc>
          <lastmod>2022-07-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
