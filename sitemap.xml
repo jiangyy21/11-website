@@ -2,97 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/ABOUT/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/ABOUT/cv/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/BLOG/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/jiangyy21/yiyi.github.io/BLOG/weekly/july_wk2/</loc>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/crawler/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/ml/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/code/preprocessing/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/kuaishou/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/moonbirds/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/ncm_recommend/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/DS/project/podcast_crawler/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/method/lftb/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/method/workflow/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/tool/consumer/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/tool/creator/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/work/gray/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/jiangyy21/yiyi.github.io/PODCAST/work/other/</loc>
-         <lastmod>2022-07-15</lastmod>
+         <lastmod>2022-07-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
