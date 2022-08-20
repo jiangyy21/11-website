@@ -2,102 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jiangyy21.github.io/11-website/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/ABOUT/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/BLOG/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/BLOG/article/arch/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/BLOG/monthly/202207/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/code/crawler/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/code/ml/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/code/preprocessing/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/project/kuaishou/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/project/moonbirds/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/project/ncm_recommend/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/DS/project/podcast_crawler/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jiangyy21.github.io/11-website/PODCAST/method/digital_audio_tech/</loc>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/method/lftb/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/method/workflow/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/tool/consumer/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/tool/creator/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/work/gray/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jiangyy21.github.io/11-website/PODCAST/work/other/</loc>
-         <lastmod>2022-08-06</lastmod>
+         <lastmod>2022-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
